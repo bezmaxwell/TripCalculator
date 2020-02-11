@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TripCalculator</string>
+        <string name="distanciaText">Distância</string>
+        <string name="precoText">Preço</string>
+        <string name="autonomiaText">Autonomia</string>
+        <string name="calcular">Calcular</string>
+        <string name="valores_validos">Por favor, informe valores válidos!!!</string>
+        <string name="km_litro">km/litro</string>
+        <string name="preco_por_litro">Preco por litro</string>
+        <string name="total_de_quilometros">Total de quilometros</string>
+</resources>
